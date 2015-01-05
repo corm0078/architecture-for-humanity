@@ -1,4 +1,4 @@
 architecture-for-humanity
 =========================
 
-groupe project
+group project
