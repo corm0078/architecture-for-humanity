@@ -1,3 +1,2 @@
 markdown: redcarpet
 baseurl: /architecture-for-humanity
-exclude: ['README.md']
