@@ -239,8 +239,13 @@ footer{
 footer h2{
  padding-top: 3rem;   
 }
+
 footer span{
- @include hide-text;   
+ @include hide-text;
+}
+
+footer a{
+ text-decoration: none;
 }
 
 footer ul{
