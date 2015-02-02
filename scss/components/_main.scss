@@ -21,6 +21,214 @@ body{
  @include zero;    
 }
 
+.h1-logo{
+ margin: 0;
+ padding-left: 30%;    
+}
+
+.h1-logo{
+  span{
+    display: none;
+    }    
+}
+
+.logo{
+   position: absolute;
+   width: 4rem;     
+   padding-top: 0.4rem;
+}
+
+.donate{
+ background-color: $yellow;
+ color: $grey;   
+ position: absolute;  
+ right: 0;
+ margin: 0; 
+ font-size: 1.4rem;
+ width: 7rem;    
+ padding: 1.6rem 0 1.7rem 0.6rem; 
+}
+
+.donate a{
+ width: 7rem;    
+ padding: 1.6rem 0 1.7rem 0.6rem; 
+ text-decoration: none;
+ color: $grey;   
+}
+
+i-menu{
+ float: left;   
+}
+
+.header {
+  position: relative;
+  background-color:  $grey;
+  height: 5rem;   
+}
+
+.navigation ul{  
+    @include zero;
+    padding-top: 5rem;
+    li{
+        list-style-type: none;
+    a{
+        display: block;
+        padding: .5em 1em;
+        text-align: center;
+        text-decoration: none;
+        color: $white;
+        font-size: 1.4rem;
+        line-height: 3rem; 
+}
+              
+        
+&:firstchild a{
+    border-top: 1px solid $grey
+    }
+  }
+}
+
+.toggle-btn,
+.close-btn{
+    color: $white;
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 3%;
+    padding-top: 1.5rem;
+    padding-top: 1.3rem;
+    font-size: 2rem;
+    right: 1em;
+    top: 0;
+    span{
+        @include hide-text;
+    }   
+}
+
+@media only screen and (min-width:26em){
+   .h1-logo{
+    padding-left: 40%;
+   }
+}
+
+//sliding nav
+
+
+
+@media only screen and (max-width:60em){
+ .site-wrapper{
+     position: relative;
+     overflow: hidden;
+     width: 100%;
+     z-index: 100;
+     .sliding-canvas{
+      width:100%;
+      height: 100%;
+      transform: translateX(0);
+      @include ease(all, 300ms, ease-in-out);
+         
+     }
+  }//.site wrapper
+}
+
+  &[data-state="slide-open"] .sliding-canvas{
+         transform: translateX(100%);
+         overflow: visible;    
+        }
+
+    &[data-state="slide-open"]{
+     overflow: visible;
+    }
+
+.slide-menu{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    left: -100%;
+    min-height: 100vh;
+    background-color: $grey;
+}
+
+@media only screen and (min-width: 60em){
+ .toggle-btn,
+ .close-btn{
+     display: none;
+ }
+ .slide-menu{
+  position: static;
+  right: auto;     
+ }
+}
+
+//nav media queries
+
+
+@media only screen and (min-width: 60em){
+ 
+    
+.h1-logo{
+ padding: 0;
+  padding-left: 1rem;    
+}
+    
+.logo{
+   position: absolute;
+   width: 4rem;     
+}
+    
+ .donate{ 
+ font-size: 1.4rem;
+ width: 8rem;    
+ padding: 1.6rem 0 1.7rem 1.5rem;   
+    
+}
+    
+.slide-menu{
+    min-height: 0;
+}
+
+    
+.navigation ul{
+        padding-top: 0.4rem;
+        padding-right: 8rem;
+        float: right;
+    
+    li{    
+        display: inline-block;
+    }
+    
+    a{
+        text-decoration: none;
+        color: $white;
+        font-size: 1.4rem;
+        height: 4.6rem;
+    }
+    
+    a:hover{
+      border-bottom: solid 0.5rem $teal;  
+        
+    }
+  }   
+}
+
+@media only screen and (min-width:75em){
+    
+    .h1-logo{
+        span{
+            display: block;
+            font-size: 1.4rem;
+            position: absolute;
+            padding-top: 1.5rem;
+            padding-left: 5rem;
+        }
+        
+    }
+}
+
+
+//footer
 footer{
   @include zero;    
   background-color:$grey;

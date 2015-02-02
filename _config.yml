@@ -1,4 +1,4 @@
 markdown: redcarpet
-baseurl: /architecture-for-humanity
+baseurl: /architecture-for-humanity/
 exclude: ["ReadMe.md"]
 permalink: pretty
