@@ -17,3 +17,33 @@ html {
 	box-sizing: inherit;
 }
 
+body{
+ @include zero;    
+}
+
+footer{
+  @include zero;    
+  background-color:$grey;
+  color: $white;    
+  text-align: center; 
+}
+
+footer h2{
+ padding-top: 3rem;   
+}
+footer span{
+ @include hide-text;   
+}
+
+footer ul{
+ @include ul-inline;    
+}
+
+footer li a{
+ color: $white;
+ width: 0;    
+}
+
+.copywrite{
+ padding-bottom: 0.3rem;   
+}
