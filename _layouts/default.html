@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<title>Push Menus</title>
     <link href='http://fonts.googleapis.com/css?family=Quicksand:300,400,700' rel='stylesheet' type='text/css'>
-	<link href="{{base.url}}/css/style.css" rel="stylesheet">
+	<link href="{{site.baseurl}}/css/style.css" rel="stylesheet">
 	<meta name="handheldfriendly" content="true">
 	<meta name="mobileoptimized" content="240">
 	<meta name="viewport" content="width=device-width,initial-scale=1">
@@ -13,16 +13,16 @@
   <div class="site-wrapper" data-state="slide-closed">
     <div class="sliding-canvas">
       <header class="header">
-          <h1 class="h1-logo"><img class="logo" src="img/logo-final.svg" alt="architecture for humanity"><span>architecture for humanity</span></h1> 
+          <h1 class="h1-logo"><img class="logo" src="{{site.baseurl}}/img/logo-final.svg" alt="architecture for humanity"><span>architecture for humanity</span></h1> 
           <a class="toggle-btn" href="#"><i class="icon-open"></i><span>Menu</span></a>
-          <h2 class="donate"><a href="#">Donate</a></h2>
+          <h2 class="donate"><a href="{{site.baseurl}}/getinvolved">Donate</a></h2>
         <nav class="navigation slide-menu">
              <a class="close-btn" href="#"><i class="icon-close"></i><span>Menu</span></a>
           <ul>
-              <li><a href="#">Our Team</a></li>
-              <li><a href="#">Get Involved</a></li>
-              <li><a href="#">Projects</a></li>
-              <li><a href="#">Blog &amp; News</a></li>
+              <li><a href="{{site.baseurl}}/ourteam">Our Team</a></li>
+              <li><a href="{{site.baseurl}}/getinvolved">Get Involved</a></li>
+              <li><a href="{{site.baseurl}}/projects">Projects</a></li>
+              <li><a href="{{site.baseurl}}/blogandnews">Blog &amp; News</a></li>
           </ul>
         </nav>
       </header><!-- /header -->
@@ -76,6 +76,6 @@
  </div>
   <!-- JS -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-<script src="js/push-menu.js" type="text/javascript"></script>
+<script src="{{site.baseurl}}/js/push-menu.js" type="text/javascript"></script>
 </body>
 </html>

@@ -26,11 +26,3 @@
   white-space: normal;
   overflow: visible;
 }
-
-
-@mixin ul-inline{
- text-decoration: none;
-    li{
-      display: inline-block;
-    }
-}

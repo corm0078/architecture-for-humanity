@@ -250,7 +250,11 @@ footer a{
 }
 
 footer ul{
- @include ul-inline;    
+ text-decoration: none;
+    li{
+      display: inline-block;
+      width: 100px;
+    }
 }
 
 footer li a{
