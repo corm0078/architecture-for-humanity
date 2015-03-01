@@ -3,57 +3,15 @@
 	text-align: left;
 }
 .ac-container .team{
-	font-family: 'quicksand', 'Arial Narrow', Arial, sans-serif;
-	padding: 5px 20px;
-	position: relative;
-	z-index: 20;
-	display: block;
-	height: 250px;
-	color: #fff;
-	line-height: 33px;
-	font-size: 19px;
-	background: transparent url(../img/ourteam.jpg);
-    width: 100%;
-    background-color:  transparent;
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover; 
+ @include about-us(url(../img/ourteam.jpg));
 }
 
 .ac-container .board{
-	font-family: 'quicksand', 'Arial Narrow', Arial, sans-serif;
-	padding: 5px 20px;
-	position: relative;
-	z-index: 20;
-	display: block;
-	height: 250px;
-	color: #fff;
-	line-height: 33px;
-	font-size: 19px;
-	background: transparent url(../img/boardofdirectors.jpg);
-    width: 100%;
-    background-color:  transparent;
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover; 
+ @include about-us(url(../img/boardofdirectors.jpg));
 }
 
 .ac-container .partners{
-	font-family: 'quicksand', 'Arial Narrow', Arial, sans-serif;
-	padding: 5px 20px;
-	position: relative;
-	z-index: 20;
-	display: block;
-	height: 250px;
-	color: #fff;
-	line-height: 33px;
-	font-size: 19px;
-	background: transparent url(../img/partners.jpg);
-    width: 100%;
-    background-color:  transparent;
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover; 
+ @include about-us(url(../img/partners.jpg));
 }
 
 .overlay {
@@ -63,25 +21,24 @@
 span.text-content span {
   display: table-cell;
   text-align: center;
+    
   vertical-align: middle;
 }
 
 span.text-content {
   position: absolute;
-  width: 150px;
-  
   -webkit-transition: opacity 500ms;
   -moz-transition: opacity 500ms;
   -o-transition: opacity 500ms;
   transition: opacity 500ms;
 }
 
-.yellow:before {
-  background-color: rgba(253, 181, 20, 0.80);
+.teal:before {
+  background-color: rgba(26, 139, 113, 0.81);
 }
 
 .overlay:before{
-  position: absolute;
+  position: absolute;    
   content:" ";
   top:0;
   left:0;
@@ -97,27 +54,15 @@ span.text-content {
 	-moz-transition:  0.2s ease-in-out;
 	-o-transition:  0.2s ease-in-out ;
 	-ms-transition:  0.2s ease-in-out ;
-	transition: 0.2s ease-in-out;
-    
+	transition: 0.2s ease-in-out; 
 }
 
 .ac-container input:checked + label,
 .ac-container input:checked + label:hover{
 	 color: rgba(255, 255, 255, 0.12);
 }
-.ac-container label:hover:after,
-.ac-container input:checked + label:hover:after{
-	content: '';
-	position: absolute;
-	width: 24px;
-	height: 24px;
-	right: 13px;
-	top: 7px; 
-	background: transparent url(../images/arrow_down.png) no-repeat center center;	
-}
-.ac-container input:checked + label:hover:after{
-	background-image: url(../images/arrow_up.png);
-}
+
+
 .ac-container input{
 	display: none;
 }
@@ -151,7 +96,7 @@ span.text-content {
 	box-shadow: 0px 0px 0px 1px rgba(155,155,155,0.3);
 }
 .ac-container input:checked ~ article.ac-small{
-	height: 140px;
+	height: 100%;
 }
 .ac-container input:checked ~ article.ac-medium{
 	height: 180px;
