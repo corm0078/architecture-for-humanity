@@ -154,12 +154,7 @@ span.text-content {
 	transition: height 0.3s ease-in-out, box-shadow 0.6s linear;
 }
 .ac-container article p{
-	font-style: italic;
-	color: #777;
-	line-height: 23px;
-	font-size: 14px;
-	padding: 20px;
-	text-shadow: 1px 1px 1px rgba(255,255,255,0.8);
+ font-weight: 500;
 }
 .ac-container input:checked ~ article{
 	-webkit-transition: height 0.5s ease-in-out, box-shadow 0.1s linear;
@@ -177,6 +172,19 @@ span.text-content {
 }
 .ac-container input:checked ~ article.ac-large{
 	height: 230px;
+}
+
+.team-member img{
+   border: $grey 3px solid;
+   border-radius: 0.3rem;  
+}
+
+.team-member{
+ text-align: center;   
+}
+
+.team-member h4{
+    margin-bottom: 0;
 }
 
 .center{
