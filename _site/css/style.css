@@ -1083,3 +1083,156 @@ footer li a {
 /* line 265, /Users/martinecormier/Documents/GD3Y6S/Web Design/architecture-for-humanity/scss/components/main */
 .copywrite {
   padding-bottom: 0.3rem; }
+
+/* line 1, /Users/martinecormier/Documents/GD3Y6S/Web Design/architecture-for-humanity/scss/components/aboutus */
+.ac-container {
+  width: 100%;
+  text-align: left; }
+
+/* line 5, /Users/martinecormier/Documents/GD3Y6S/Web Design/architecture-for-humanity/scss/components/aboutus */
+.ac-container .team {
+  font-family: 'quicksand', 'Arial Narrow', Arial, sans-serif;
+  padding: 5px 20px;
+  position: relative;
+  z-index: 20;
+  display: block;
+  height: 250px;
+  color: #fff;
+  line-height: 33px;
+  font-size: 19px;
+  background: transparent url(../images/ourteam.jpg);
+  width: 100%;
+  background-color: transparent;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+/* line 23, /Users/martinecormier/Documents/GD3Y6S/Web Design/architecture-for-humanity/scss/components/aboutus */
+.ac-container .board {
+  font-family: 'quicksand', 'Arial Narrow', Arial, sans-serif;
+  padding: 5px 20px;
+  position: relative;
+  z-index: 20;
+  display: block;
+  height: 250px;
+  color: #fff;
+  line-height: 33px;
+  font-size: 19px;
+  background: transparent url(../images/boardofdirectors.jpg);
+  width: 100%;
+  background-color: transparent;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+/* line 41, /Users/martinecormier/Documents/GD3Y6S/Web Design/architecture-for-humanity/scss/components/aboutus */
+.ac-container .partners {
+  font-family: 'quicksand', 'Arial Narrow', Arial, sans-serif;
+  padding: 5px 20px;
+  position: relative;
+  z-index: 20;
+  display: block;
+  height: 250px;
+  color: #fff;
+  line-height: 33px;
+  font-size: 19px;
+  background: transparent url(../images/partners.jpg);
+  width: 100%;
+  background-color: transparent;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+/* line 59, /Users/martinecormier/Documents/GD3Y6S/Web Design/architecture-for-humanity/scss/components/aboutus */
+.overlay {
+  position: relative; }
+
+/* line 63, /Users/martinecormier/Documents/GD3Y6S/Web Design/architecture-for-humanity/scss/components/aboutus */
+span.text-content span {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle; }
+
+/* line 69, /Users/martinecormier/Documents/GD3Y6S/Web Design/architecture-for-humanity/scss/components/aboutus */
+span.text-content {
+  position: absolute;
+  width: 150px;
+  transition: opacity 500ms; }
+
+/* line 79, /Users/martinecormier/Documents/GD3Y6S/Web Design/architecture-for-humanity/scss/components/aboutus */
+.yellow:before {
+  background-color: rgba(253, 181, 20, 0.8); }
+
+/* line 83, /Users/martinecormier/Documents/GD3Y6S/Web Design/architecture-for-humanity/scss/components/aboutus */
+.overlay:before {
+  position: absolute;
+  content: " ";
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0;
+  z-index: 0; }
+
+/* line 94, /Users/martinecormier/Documents/GD3Y6S/Web Design/architecture-for-humanity/scss/components/aboutus */
+.overlay:hover:before {
+  opacity: 100;
+  transition: 0.2s ease-in-out; }
+
+/* line 105, /Users/martinecormier/Documents/GD3Y6S/Web Design/architecture-for-humanity/scss/components/aboutus */
+.ac-container input:checked + label, .ac-container input:checked + label:hover {
+  color: rgba(255, 255, 255, 0.12); }
+
+/* line 109, /Users/martinecormier/Documents/GD3Y6S/Web Design/architecture-for-humanity/scss/components/aboutus */
+.ac-container label:hover:after, .ac-container input:checked + label:hover:after {
+  content: '';
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  right: 13px;
+  top: 7px;
+  background: transparent url(../images/arrow_down.png) no-repeat center center; }
+
+/* line 118, /Users/martinecormier/Documents/GD3Y6S/Web Design/architecture-for-humanity/scss/components/aboutus */
+.ac-container input:checked + label:hover:after {
+  background-image: url(../images/arrow_up.png); }
+
+/* line 121, /Users/martinecormier/Documents/GD3Y6S/Web Design/architecture-for-humanity/scss/components/aboutus */
+.ac-container input {
+  display: none; }
+
+/* line 124, /Users/martinecormier/Documents/GD3Y6S/Web Design/architecture-for-humanity/scss/components/aboutus */
+.ac-container article {
+  background: rgba(255, 255, 255, 0.5);
+  margin-top: -1px;
+  overflow: hidden;
+  height: 0px;
+  position: relative;
+  z-index: 10;
+  transition: height 0.3s ease-in-out, box-shadow 0.6s linear; }
+
+/* line 137, /Users/martinecormier/Documents/GD3Y6S/Web Design/architecture-for-humanity/scss/components/aboutus */
+.ac-container article p {
+  font-style: italic;
+  color: #777;
+  line-height: 23px;
+  font-size: 14px;
+  padding: 20px;
+  text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.8); }
+
+/* line 145, /Users/martinecormier/Documents/GD3Y6S/Web Design/architecture-for-humanity/scss/components/aboutus */
+.ac-container input:checked ~ article {
+  transition: height 0.5s ease-in-out, box-shadow 0.1s linear;
+  box-shadow: 0px 0px 0px 1px rgba(155, 155, 155, 0.3); }
+
+/* line 153, /Users/martinecormier/Documents/GD3Y6S/Web Design/architecture-for-humanity/scss/components/aboutus */
+.ac-container input:checked ~ article.ac-small {
+  height: 140px; }
+
+/* line 156, /Users/martinecormier/Documents/GD3Y6S/Web Design/architecture-for-humanity/scss/components/aboutus */
+.ac-container input:checked ~ article.ac-medium {
+  height: 180px; }
+
+/* line 159, /Users/martinecormier/Documents/GD3Y6S/Web Design/architecture-for-humanity/scss/components/aboutus */
+.ac-container input:checked ~ article.ac-large {
+  height: 230px; }
