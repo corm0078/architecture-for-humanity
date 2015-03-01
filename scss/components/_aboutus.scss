@@ -1,12 +1,18 @@
+.intro{
+ text-align: center;
+ padding: 2rem;
+}
+
 .ac-container{
 	width: 100%;
-	text-align: center;
+	text-align: left;
 }
 
 .text-content h2{
+    
 	background-color: rgba(26, 139, 113, 0.85);
     padding: 0.5rem;
-    border: $grey 4px solid;
+    border: $grey 3px solid;
     border-radius: 0.3rem;
     font-weight: 700;
     font-size: 1.2rem;
@@ -15,14 +21,17 @@
 
 .ac-container .team{
  @include about-us(url(../img/ourteam.jpg));
+ padding-right: 50%;    
 }
 
 .ac-container .board{
  @include about-us(url(../img/boardofdirectors.jpg));
+ padding-right: 70%;    
 }
 
 .ac-container .partners{
  @include about-us(url(../img/partners.jpg));
+ padding-right: 90%;    
 }
 
 .overlay {
