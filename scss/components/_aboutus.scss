@@ -21,18 +21,71 @@
 
 .ac-container .team{
  @include about-us(url(../img/ourteam.jpg));
- padding-right: 50%;    
+ padding-right: 45%;    
 }
 
 .ac-container .board{
- @include about-us(url(../img/boardofdirectors.jpg));
+ @include about-us(url(../img/boardofdirectors.jpg)); 
  padding-right: 70%;    
+   
 }
 
 .ac-container .partners{
  @include about-us(url(../img/partners.jpg));
- padding-right: 90%;    
+ padding-right: 80%;    
 }
+
+@media only screen and (min-width:28em){
+  
+    .ac-container .partners{
+     padding-right: 45%;   
+    }
+    
+    .ac-container .board{
+     padding-right: 37%;   
+    }
+    
+    .ac-container .team{
+     padding-right: 25%;   
+    }
+    
+}
+
+@media only screen and (min-width:50em){
+  
+    .ac-container .partners{
+     padding-right: 25%;   
+    }
+    
+    .ac-container .board{
+     padding-right: 20%;   
+    }
+    
+    .ac-container .team{
+     padding-left: 15%;   
+    }
+    
+}
+
+@media only screen and (min-width:81em){
+  
+    .ac-container .partners{
+     padding-right: 24%;
+     padding-top: 5rem;    
+    }
+    
+    .ac-container .board{
+     padding-right: 20%;
+     padding-top: 5rem;
+    }
+    
+    .ac-container .team{
+     padding-left: 12%;
+     padding-top: 5rem;    
+    }
+    
+}
+
 
 .overlay {
   position: relative;
@@ -124,4 +177,8 @@ span.text-content {
 }
 .ac-container input:checked ~ article.ac-large{
 	height: 230px;
+}
+
+.center{
+ text-align: center;   
 }
