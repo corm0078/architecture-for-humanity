@@ -207,7 +207,7 @@ span.text-content {
 ul.img-list {
   list-style-type: none;
   text-align: center;
-  padding: 0;    
+  padding: 2%;    
 }
  
 ul.img-list li {
@@ -218,12 +218,12 @@ ul.img-list li {
 span.text-content-img {
   background: rgba(0, 0, 0, 0.74);
   color: white;
-  top: 3.2rem;
-  left: 1.55rem;   
+  top: 3.2rem;   
   cursor: pointer;
   display: table;
   position: absolute;
-  width: 100%; 
+  width: 98%; 
+  left: 1%;    
   height: 238px    
 }
  
