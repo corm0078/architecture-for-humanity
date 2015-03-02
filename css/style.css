@@ -18,7 +18,7 @@
   }
 }
 */
-/* line 22, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/fontello */
+/* line 22, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/fontello */
 [class^="icon-"]:before, [class*=" icon-"]:before {
   font-family: "fontello";
   font-style: normal;
@@ -43,351 +43,351 @@
   /* Uncomment for 3D effect */
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */ }
 
-/* line 53, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/fontello */
+/* line 53, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/fontello */
 .icon-linkedin:before {
   content: '\e800'; }
 
 /* '' */
-/* line 54, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/fontello */
+/* line 54, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/fontello */
 .icon-twitter:before {
   content: '\e801'; }
 
 /* '' */
-/* line 55, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/fontello */
+/* line 55, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/fontello */
 .icon-youtube-play:before {
   content: '\e802'; }
 
 /* '' */
-/* line 56, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/fontello */
+/* line 56, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/fontello */
 .icon-facebook:before {
   content: '\e803'; }
 
 /* '' */
-/* line 57, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/fontello */
+/* line 57, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/fontello */
 .icon-solution:before {
   content: '\e804'; }
 
 /* '' */
-/* line 58, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/fontello */
+/* line 58, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/fontello */
 .icon-need:before {
   content: '\e805'; }
 
 /* '' */
-/* line 59, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/fontello */
+/* line 59, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/fontello */
 .icon-lastingsolution:before {
   content: '\e806'; }
 
 /* '' */
-/* line 60, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/fontello */
+/* line 60, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/fontello */
 .icon-collabaration:before {
   content: '\e807'; }
 
 /* '' */
-/* line 61, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/fontello */
+/* line 61, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/fontello */
 .icon-open:before {
   content: '\e808'; }
 
 /* '' */
-/* line 62, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/fontello */
+/* line 62, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/fontello */
 .icon-close:before {
   content: '\e809'; }
 
 /* '' */
-/* line 63, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/fontello */
+/* line 63, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/fontello */
 .icon-spaces:before {
   content: '\e80a'; }
 
 /* '' */
-/* line 64, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/fontello */
+/* line 64, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/fontello */
 .icon-reconstruction:before {
   content: '\e80b'; }
 
 /* '' */
-/* line 65, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/fontello */
+/* line 65, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/fontello */
 .icon-education:before {
   content: '\e80c'; }
 
 /* '' */
-/* line 66, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/fontello */
+/* line 66, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/fontello */
 .icon-community:before {
   content: '\e80d'; }
 
 /* '' */
-/* line 2, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/fontello-codes */
+/* line 2, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/fontello-codes */
 .icon-linkedin:before {
   content: '\e800'; }
 
 /* '' */
-/* line 3, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/fontello-codes */
+/* line 3, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/fontello-codes */
 .icon-twitter:before {
   content: '\e801'; }
 
 /* '' */
-/* line 4, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/fontello-codes */
+/* line 4, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/fontello-codes */
 .icon-youtube-play:before {
   content: '\e802'; }
 
 /* '' */
-/* line 5, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/fontello-codes */
+/* line 5, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/fontello-codes */
 .icon-facebook:before {
   content: '\e803'; }
 
 /* '' */
-/* line 6, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/fontello-codes */
+/* line 6, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/fontello-codes */
 .icon-solution:before {
   content: '\e804'; }
 
 /* '' */
-/* line 7, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/fontello-codes */
+/* line 7, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/fontello-codes */
 .icon-need:before {
   content: '\e805'; }
 
 /* '' */
-/* line 8, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/fontello-codes */
+/* line 8, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/fontello-codes */
 .icon-lastingsolution:before {
   content: '\e806'; }
 
 /* '' */
-/* line 9, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/fontello-codes */
+/* line 9, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/fontello-codes */
 .icon-collabaration:before {
   content: '\e807'; }
 
 /* '' */
-/* line 10, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/fontello-codes */
+/* line 10, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/fontello-codes */
 .icon-open:before {
   content: '\e808'; }
 
 /* '' */
-/* line 11, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/fontello-codes */
+/* line 11, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/fontello-codes */
 .icon-close:before {
   content: '\e809'; }
 
 /* '' */
-/* line 12, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/fontello-codes */
+/* line 12, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/fontello-codes */
 .icon-spaces:before {
   content: '\e80a'; }
 
 /* '' */
-/* line 13, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/fontello-codes */
+/* line 13, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/fontello-codes */
 .icon-reconstruction:before {
   content: '\e80b'; }
 
 /* '' */
-/* line 14, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/fontello-codes */
+/* line 14, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/fontello-codes */
 .icon-education:before {
   content: '\e80c'; }
 
 /* '' */
-/* line 15, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/fontello-codes */
+/* line 15, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/fontello-codes */
 .icon-community:before {
   content: '\e80d'; }
 
 /* '' */
-/* line 1, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 1, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 html {
   font: normal 100%/1.5 quicksand, sans-serif;
   color: #474747; }
 
 @media only screen and (min-width: 60em) {
-  /* line 8, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+  /* line 8, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
   html {
     font-size: 110%; }
  }
 
 @media only screen and (min-width: 90em) {
-  /* line 16, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+  /* line 16, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
   html {
     font-size: 120%; }
  }
 
 @media only screen and (min-width: 120em) {
-  /* line 24, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+  /* line 24, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
   html {
     font-size: 130%; }
  }
 
-/* line 33, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 33, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 h1, h2, h3, h4, h5, h6, p, ul, ol, dl, dd, figure, blockquote, details, hr, fieldset, pre, table {
   margin: 0 0 1.5rem; }
 
-/* line 37, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 37, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 .yotta {
   font-size: 4.7684rem;
   line-height: 1.2583; }
 
-/* line 42, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 42, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 .zetta {
   font-size: 3.8147rem;
   line-height: 1.1796; }
 
-/* line 47, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 47, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 h1, .exa {
   font-size: 3.0518rem;
   line-height: 1.4746; }
 
-/* line 52, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 52, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 h2, .peta {
   font-size: 2.4414rem;
   line-height: 1.2288; }
 
-/* line 57, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 57, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 h3, .tera {
   font-size: 1.9531rem;
   line-height: 1.536; }
 
-/* line 62, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 62, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 h4, .giga {
   font-size: 1.5625rem;
   line-height: 1.92; }
 
-/* line 67, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 67, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 h5, .mega {
   font-size: 1.25rem;
   line-height: 1.2; }
 
-/* line 72, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 72, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 h6, .kilo {
   font-size: 1rem;
   line-height: 1.5; }
 
-/* line 77, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 77, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 small, .milli {
   font-size: 0.8rem;
   line-height: 1.875; }
 
-/* line 82, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 82, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 .micro {
   font-size: 0.64rem;
   line-height: 2.3438; }
 
-/* line 88, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 88, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 sub, sup {
   font-size: 75%;
   line-height: 1px;
   position: relative;
   vertical-align: baseline; }
 
-/* line 95, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 95, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 sup {
   top: -0.5em; }
 
-/* line 99, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 99, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 sub {
   bottom: -0.25em; }
 
-/* line 103, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 103, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 .text-left {
   text-align: left; }
 
-/* line 107, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 107, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 .text-right {
   text-align: right; }
 
-/* line 111, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 111, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 .text-center {
   text-align: center; }
 
-/* line 115, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 115, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 .normal {
   font-weight: normal; }
 
-/* line 119, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 119, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 .bold {
   font-weight: bold; }
 
-/* line 123, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 123, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 .italic {
   font-style: italic; }
 
-/* line 127, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 127, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 .push {
   margin-bottom: 1.5rem; }
 
-/* line 131, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 131, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 .push-none, .push-0 {
   margin-bottom: 0; }
 
-/* line 135, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 135, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 .push-double, .push-2 {
   margin-bottom: 3rem; }
 
-/* line 139, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 139, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 .push-half, .push-1-2 {
   margin-bottom: 0.75rem; }
 
-/* line 143, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 143, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 .push-quarter, .push-1-4 {
   margin-bottom: 0.375rem; }
 
-/* line 147, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 147, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 .pad-top, .pad-t {
   padding-top: 1.5rem; }
 
-/* line 151, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 151, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 .pad-bottom, .pad-b {
   padding-bottom: 1.5rem; }
 
-/* line 155, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 155, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 .pad-top-double, .pad-t-2 {
   padding-top: 3rem; }
 
-/* line 159, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 159, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 .pad-bottom-double, .pad-b-2 {
   padding-bottom: 3rem; }
 
-/* line 163, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 163, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 .pad-top-half, .pad-t-1-2 {
   padding-top: 0.75rem; }
 
-/* line 167, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 167, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 .pad-bottom-half, .pad-b-1-2 {
   padding-bottom: 0.75rem; }
 
-/* line 171, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 171, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 .pad-top-quarter, .pad-t-1-4 {
   padding-top: 0.375rem; }
 
-/* line 175, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 175, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 .pad-bottom-quarter, .pad-b-1-4 {
   padding-bottom: 0.375rem; }
 
-/* line 179, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 179, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 .island {
   padding: 1.5rem; }
 
-/* line 183, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 183, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 .island-double, .island-2 {
   padding: 3rem; }
 
-/* line 187, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 187, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 .island-half, .island-1-2 {
   padding: 0.75rem; }
 
-/* line 191, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 191, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 .island-quarter, .island-1-4 {
   padding: 0.375rem; }
 
-/* line 195, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 195, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 .gutter {
   padding-left: 1.5rem;
   padding-right: 1.5rem; }
 
-/* line 200, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 200, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 .gutter-double, .gutter-2 {
   padding-left: 3rem;
   padding-right: 3rem; }
 
-/* line 205, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 205, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 .gutter-half, .gutter-1-2 {
   padding-left: 0.75rem;
   padding-right: 0.75rem; }
 
-/* line 210, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/typography */
+/* line 210, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/typography */
 .gutter-quarter, .gutter-1-4 {
   padding-left: 0.375rem;
   padding-right: 0.375rem; }
 
-/* line 1, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+/* line 1, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
 .grid {
   margin: 0;
   padding: 0;
@@ -402,32 +402,32 @@ sub {
       -ms-flex-flow: row wrap;
           flex-flow: row wrap; }
 
-/* line 14, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+/* line 14, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
 .grid-bottom {
   -webkit-align-items: flex-end;
   -ms-align-items: flex-end;
   -ms-flex-align: end;
       align-items: flex-end; }
 
-/* line 20, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+/* line 20, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
 .grid-middle {
   -webkit-align-items: center;
   -ms-align-items: center;
   -ms-flex-align: center;
       align-items: center; }
 
-/* line 26, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+/* line 26, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
 .grid-stretch {
   -webkit-align-items: stretch;
   -ms-align-items: stretch;
   -ms-flex-align: stretch;
       align-items: stretch; }
 
-/* line 32, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+/* line 32, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
 .opera-only :-o-prefocus, .grid {
   word-spacing: -0.43em; }
 
-/* line 36, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+/* line 36, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
 .unit {
   letter-spacing: normal;
   text-rendering: auto;
@@ -436,361 +436,361 @@ sub {
   display: inline-block;
   visibility: visible; }
 
-/* line 45, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+/* line 45, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
 .grid-bottom .unit {
   vertical-align: bottom; }
 
-/* line 49, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+/* line 49, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
 .grid-middle .unit {
   vertical-align: middle; }
 
-/* line 54, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+/* line 54, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
 .unit[class*="push-"], .unit[class*="pull-"] {
   position: relative; }
 
-/* line 58, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+/* line 58, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
 .unit-xs-hidden {
   display: none;
   visibility: hidden; }
 
-/* line 63, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+/* line 63, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
 .unit-xs-centered {
   margin: 0 auto; }
 
-/* line 67, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+/* line 67, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
 .unit-xs-1, .xs-1 {
   display: block;
   visibility: visible;
   width: 100%; }
 
-/* line 73, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+/* line 73, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
 .unit-offset-xs-0 {
   margin-left: 0; }
 
-/* line 78, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+/* line 78, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
 .unit-push-xs-0, .unit-pull-xs-0 {
   left: 0; }
 
-/* line 82, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+/* line 82, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
 .unit-xs-1-2, .xs-1-2 {
   width: 50%; }
 
-/* line 86, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+/* line 86, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
 .unit-offset-xs-1-2 {
   margin-left: 50%; }
 
-/* line 90, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+/* line 90, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
 .unit-push-xs-1-2 {
   left: 50%; }
 
-/* line 94, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+/* line 94, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
 .unit-pull-xs-1-2 {
   left: -50%; }
 
-/* line 98, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+/* line 98, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
 .unit-xs-1-3, .xs-1-3 {
   width: 33.3333%; }
 
-/* line 102, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+/* line 102, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
 .unit-offset-xs-1-3 {
   margin-left: 33.3333%; }
 
-/* line 106, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+/* line 106, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
 .unit-push-xs-1-3 {
   left: 33.3333%; }
 
-/* line 110, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+/* line 110, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
 .unit-pull-xs-1-3 {
   left: -33.3333%; }
 
-/* line 114, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+/* line 114, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
 .unit-xs-2-3, .xs-2-3 {
   width: 66.6667%; }
 
-/* line 118, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+/* line 118, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
 .unit-offset-xs-2-3 {
   margin-left: 66.6667%; }
 
-/* line 122, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+/* line 122, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
 .unit-push-xs-2-3 {
   left: 66.6667%; }
 
-/* line 126, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+/* line 126, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
 .unit-pull-xs-2-3 {
   left: -66.6667%; }
 
-/* line 130, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+/* line 130, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
 .unit-xs-1-2, .xs-1-2, .unit-xs-1-3, .xs-1-3, .unit-xs-2-3, .xs-2-3 {
   display: inline-block;
   visibility: visible; }
 
 @media only screen and (min-width: 25em) {
-  /* line 137, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 137, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-s-hidden {
     display: none;
     visibility: hidden; }
 
-  /* line 142, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 142, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-s-centered {
     margin: 0 auto; }
 
-  /* line 146, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 146, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-s-1, .s-1 {
     display: block;
     visibility: visible;
     width: 100%; }
 
-  /* line 152, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 152, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-offset-s-0 {
     margin-left: 0; }
 
-  /* line 157, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 157, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-push-s-0, .unit-pull-s-0 {
     left: 0; }
 
-  /* line 161, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 161, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-s-1-2, .s-1-2 {
     width: 50%; }
 
-  /* line 165, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 165, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-offset-s-1-2 {
     margin-left: 50%; }
 
-  /* line 169, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 169, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-push-s-1-2 {
     left: 50%; }
 
-  /* line 173, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 173, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-pull-s-1-2 {
     left: -50%; }
 
-  /* line 177, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 177, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-s-1-3, .s-1-3 {
     width: 33.3333%; }
 
-  /* line 181, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 181, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-offset-s-1-3 {
     margin-left: 33.3333%; }
 
-  /* line 185, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 185, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-push-s-1-3 {
     left: 33.3333%; }
 
-  /* line 189, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 189, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-pull-s-1-3 {
     left: -33.3333%; }
 
-  /* line 193, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 193, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-s-2-3, .s-2-3 {
     width: 66.6667%; }
 
-  /* line 197, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 197, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-offset-s-2-3 {
     margin-left: 66.6667%; }
 
-  /* line 201, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 201, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-push-s-2-3 {
     left: 66.6667%; }
 
-  /* line 205, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 205, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-pull-s-2-3 {
     left: -66.6667%; }
 
-  /* line 209, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 209, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-s-1-2, .s-1-2, .unit-s-1-3, .s-1-3, .unit-s-2-3, .s-2-3 {
     display: inline-block;
     visibility: visible; }
  }
 
 @media only screen and (min-width: 38em) {
-  /* line 218, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 218, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-m-hidden {
     display: none;
     visibility: hidden; }
 
-  /* line 223, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 223, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-m-centered {
     margin: 0 auto; }
 
-  /* line 227, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 227, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-m-1, .m-1 {
     display: block;
     visibility: visible;
     width: 100%; }
 
-  /* line 233, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 233, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-offset-m-0 {
     margin-left: 0; }
 
-  /* line 238, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 238, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-push-m-0, .unit-pull-m-0 {
     left: 0; }
 
-  /* line 242, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 242, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-m-1-2, .m-1-2 {
     width: 50%; }
 
-  /* line 246, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 246, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-offset-m-1-2 {
     margin-left: 50%; }
 
-  /* line 250, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 250, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-push-m-1-2 {
     left: 50%; }
 
-  /* line 254, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 254, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-pull-m-1-2 {
     left: -50%; }
 
-  /* line 258, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 258, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-m-1-3, .m-1-3 {
     width: 33.3333%; }
 
-  /* line 262, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 262, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-offset-m-1-3 {
     margin-left: 33.3333%; }
 
-  /* line 266, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 266, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-push-m-1-3 {
     left: 33.3333%; }
 
-  /* line 270, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 270, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-pull-m-1-3 {
     left: -33.3333%; }
 
-  /* line 274, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 274, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-m-2-3, .m-2-3 {
     width: 66.6667%; }
 
-  /* line 278, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 278, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-offset-m-2-3 {
     margin-left: 66.6667%; }
 
-  /* line 282, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 282, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-push-m-2-3 {
     left: 66.6667%; }
 
-  /* line 286, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 286, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-pull-m-2-3 {
     left: -66.6667%; }
 
-  /* line 290, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 290, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-m-1-2, .m-1-2, .unit-m-1-3, .m-1-3, .unit-m-2-3, .m-2-3 {
     display: inline-block;
     visibility: visible; }
  }
 
 @media only screen and (min-width: 60em) {
-  /* line 299, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 299, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-l-hidden {
     display: none;
     visibility: hidden; }
 
-  /* line 304, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 304, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-l-centered {
     margin: 0 auto; }
 
-  /* line 308, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 308, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-l-1, .l-1 {
     display: block;
     visibility: visible;
     width: 100%; }
 
-  /* line 314, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 314, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-offset-l-0 {
     margin-left: 0; }
 
-  /* line 319, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 319, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-push-l-0, .unit-pull-l-0 {
     left: 0; }
 
-  /* line 323, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 323, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-l-1-2, .l-1-2 {
     width: 50%; }
 
-  /* line 327, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 327, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-offset-l-1-2 {
     margin-left: 50%; }
 
-  /* line 331, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 331, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-push-l-1-2 {
     left: 50%; }
 
-  /* line 335, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 335, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-pull-l-1-2 {
     left: -50%; }
 
-  /* line 339, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 339, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-l-1-3, .l-1-3 {
     width: 33.3333%; }
 
-  /* line 343, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 343, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-offset-l-1-3 {
     margin-left: 33.3333%; }
 
-  /* line 347, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 347, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-push-l-1-3 {
     left: 33.3333%; }
 
-  /* line 351, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 351, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-pull-l-1-3 {
     left: -33.3333%; }
 
-  /* line 355, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 355, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-l-2-3, .l-2-3 {
     width: 66.6667%; }
 
-  /* line 359, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 359, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-offset-l-2-3 {
     margin-left: 66.6667%; }
 
-  /* line 363, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 363, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-push-l-2-3 {
     left: 66.6667%; }
 
-  /* line 367, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 367, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-pull-l-2-3 {
     left: -66.6667%; }
 
-  /* line 371, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 371, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-l-1-4, .l-1-4 {
     width: 25%; }
 
-  /* line 375, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 375, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-offset-l-1-4 {
     margin-left: 25%; }
 
-  /* line 379, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 379, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-push-l-1-4 {
     left: 25%; }
 
-  /* line 383, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 383, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-pull-l-1-4 {
     left: -25%; }
 
-  /* line 387, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 387, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-l-3-4, .l-3-4 {
     width: 75%; }
 
-  /* line 391, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 391, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-offset-l-3-4 {
     margin-left: 75%; }
 
-  /* line 395, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 395, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-push-l-3-4 {
     left: 75%; }
 
-  /* line 399, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 399, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-pull-l-3-4 {
     left: -75%; }
 
-  /* line 403, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+  /* line 403, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
   .unit-l-1-2, .l-1-2, .unit-l-1-3, .l-1-3, .unit-l-2-3, .l-2-3, .unit-l-1-4, .l-1-4, .unit-l-3-4, .l-3-4 {
     display: inline-block;
     visibility: visible; }
  }
 
-/* line 410, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+/* line 410, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
 .unit-content-distribute {
   display: -ms-flexbox;
   display: -webkit-flex;
@@ -805,21 +805,21 @@ sub {
   -webkit-align-items: center;
   align-items: center; }
 
-/* line 425, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+/* line 425, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
 .content-fill {
   -ms-flex-grow: 2;
   -webkit-flex-grow: 2;
   -ms-flex-positive: 2;
       flex-grow: 2; }
 
-/* line 431, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+/* line 431, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
 .content-shrink {
   -ms-align-self: center;
   -webkit-align-self: center;
       -ms-flex-item-align: center;
           align-self: center; }
 
-/* line 437, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/grid */
+/* line 437, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/grid */
 .gutter {
   width: 40%; }
 
@@ -843,38 +843,38 @@ sub {
   width: device-width;
   scale: 1; }
 
-/* line 7, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+/* line 7, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
 html {
   box-sizing: border-box;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%; }
 
-/* line 16, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+/* line 16, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
 *, *:before, *:after {
   box-sizing: inherit; }
 
-/* line 20, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+/* line 20, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
 body {
   margin: 0;
   padding: 0; }
 
-/* line 24, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+/* line 24, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
 .h1-logo {
   margin: 0;
   padding-left: 30%; }
 
-/* line 30, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+/* line 30, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
 .h1-logo span {
   display: none; }
 
-/* line 35, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+/* line 35, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
 .logo {
   position: absolute;
   width: 4rem;
   padding-top: 0.4rem; }
 
-/* line 41, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+/* line 41, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
 .donate {
   background-color: #fdb514;
   color: #474747;
@@ -885,32 +885,32 @@ body {
   width: 7rem;
   padding: 1.6rem 0 1.7rem 0.6rem; }
 
-/* line 52, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+/* line 52, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
 .donate a {
   width: 7rem;
   padding: 1.6rem 0 1.7rem 0.6rem;
   text-decoration: none;
   color: #474747; }
 
-/* line 59, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+/* line 59, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
 i-menu {
   float: left; }
 
-/* line 63, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+/* line 63, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
 .header {
   position: relative;
   background-color: #474747;
   height: 5rem; }
 
-/* line 69, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+/* line 69, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
 .navigation ul {
   margin: 0;
   padding: 0;
   padding-top: 5rem; }
-  /* line 72, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+  /* line 72, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
   .navigation ul li {
     list-style-type: none; }
-    /* line 74, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+    /* line 74, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
     .navigation ul li a {
       display: block;
       padding: 0.5em 1em;
@@ -919,11 +919,11 @@ i-menu {
       color: #ffffff;
       font-size: 1.4rem;
       line-height: 3rem; }
-    /* line 85, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+    /* line 85, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
     .navigation ul li:firstchild a {
       border-top: 1px solid #474747; }
 
-/* line 92, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+/* line 92, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
 .toggle-btn, .close-btn {
   color: #ffffff;
   height: 100px;
@@ -935,7 +935,7 @@ i-menu {
   font-size: 2rem;
   right: 1em;
   top: 0; }
-  /* line 103, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+  /* line 103, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
   .toggle-btn span, .close-btn span {
     text-indent: 100%;
     white-space: nowrap;
@@ -943,19 +943,19 @@ i-menu {
     display: block; }
 
 @media only screen and (min-width: 26em) {
-  /* line 109, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+  /* line 109, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
   .h1-logo {
     padding-left: 40%; }
  }
 
 @media only screen and (max-width: 60em) {
-  /* line 119, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+  /* line 119, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
   .site-wrapper {
     position: relative;
     overflow: hidden;
     width: 100%;
     z-index: 100; }
-    /* line 124, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+    /* line 124, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
     .site-wrapper .sliding-canvas {
       width: 100%;
       height: 100%;
@@ -965,18 +965,18 @@ i-menu {
       transition: all 300ms ease-in-out; }
  }
 
-/* line 134, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+/* line 134, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
 [data-state="slide-open"] .sliding-canvas {
   -webkit-transform: translateX(100%);
       -ms-transform: translateX(100%);
           transform: translateX(100%);
   overflow: visible; }
 
-/* line 139, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+/* line 139, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
 [data-state="slide-open"] {
   overflow: visible; }
 
-/* line 143, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+/* line 143, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
 .slide-menu {
   position: absolute;
   width: 100%;
@@ -988,58 +988,58 @@ i-menu {
   background-color: #474747; }
 
 @media only screen and (min-width: 60em) {
-  /* line 156, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+  /* line 156, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
   .toggle-btn, .close-btn {
     display: none; }
 
-  /* line 159, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+  /* line 159, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
   .slide-menu {
     position: static;
     right: auto; }
  }
 
 @media only screen and (min-width: 60em) {
-  /* line 171, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+  /* line 171, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
   .h1-logo {
     padding: 0;
     padding-left: 1rem; }
 
-  /* line 176, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+  /* line 176, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
   .logo {
     position: absolute;
     width: 4rem; }
 
-  /* line 181, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+  /* line 181, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
   .donate {
     font-size: 1.4rem;
     width: 8rem;
     padding: 1.6rem 0 1.7rem 1.5rem; }
 
-  /* line 188, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+  /* line 188, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
   .slide-menu {
     min-height: 0; }
 
-  /* line 193, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+  /* line 193, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
   .navigation ul {
     padding-top: 0.4rem;
     padding-right: 8rem;
     float: right; }
-    /* line 198, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+    /* line 198, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
     .navigation ul li {
       display: inline-block; }
-    /* line 202, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+    /* line 202, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
     .navigation ul a {
       text-decoration: none;
       color: #ffffff;
       font-size: 1.4rem;
       height: 4.6rem; }
-    /* line 209, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+    /* line 209, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
     .navigation ul a:hover {
       border-bottom: solid 0.5rem #1a8b71; }
  }
 
 @media only screen and (min-width: 85em) {
-  /* line 219, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+  /* line 219, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
   .h1-logo span {
     color: #ffffff;
     display: block;
@@ -1049,7 +1049,7 @@ i-menu {
     padding-left: 5rem; }
  }
 
-/* line 233, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+/* line 233, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
 footer {
   margin: 0;
   padding: 0;
@@ -1057,131 +1057,131 @@ footer {
   color: #ffffff;
   text-align: center; }
 
-/* line 240, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+/* line 240, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
 footer h2 {
   padding-top: 3rem; }
 
-/* line 244, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+/* line 244, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
 footer span {
   text-indent: 100%;
   white-space: nowrap;
   overflow: hidden;
   display: block; }
 
-/* line 248, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+/* line 248, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
 footer a {
   text-decoration: none; }
 
-/* line 252, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+/* line 252, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
 footer ul {
   text-decoration: none; }
-  /* line 254, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+  /* line 254, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
   footer ul li {
     display: inline-block;
     width: 100px; }
 
-/* line 260, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+/* line 260, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
 footer li a {
   color: #ffffff;
   width: 0; }
 
-/* line 265, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+/* line 265, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
 .copywrite {
   padding-bottom: 0.3rem; }
 
-/* line 269, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+/* line 269, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
 .title {
   text-align: center;
   padding-top: 2rem; }
 
-/* line 274, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/main */
+/* line 274, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/main */
 .gutter-image {
-  padding: 0; }
+  padding: 0 2rem 0 2rem; }
 
-/* line 1, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/homepage */
+/* line 1, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/homepage */
 .homepage h2 {
   text-align: center; }
 
-/* line 5, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/homepage */
+/* line 5, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/homepage */
 .homepage p {
   text-align: center; }
 
-/* line 9, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/homepage */
+/* line 9, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/homepage */
 .section-main p {
   max-width: 90%;
   text-align: center;
   margin: 0 auto; }
 
-/* line 16, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/homepage */
+/* line 16, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/homepage */
 .banner p {
   max-width: 90%;
   text-align: center;
   margin: 0 auto;
   padding-bottom: 2rem; }
 
-/* line 23, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/homepage */
+/* line 23, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/homepage */
 .banner h1 {
   padding-top: 2rem;
   text-align: center;
   margin: 0 auto;
   padding-bottom: 2rem; }
 
-/* line 30, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/homepage */
+/* line 30, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/homepage */
 .section-main {
   margin-bottom: -2rem; }
-  /* line 32, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/homepage */
+  /* line 32, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/homepage */
   .section-main h2 {
     padding-top: 2rem; }
-  /* line 35, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/homepage */
+  /* line 35, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/homepage */
   .section-main p {
     padding-bottom: 4rem; }
 
-/* line 48, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/homepage */
+/* line 48, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/homepage */
 .block-1 {
   background: url("/img/homepage/1.jpg") no-repeat center center fixed;
   background-size: cover;
   width: 100%; }
 
-/* line 53, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/homepage */
+/* line 53, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/homepage */
 .block-2 {
   background: url("/img/homepage/2.jpg") no-repeat center center fixed;
   background-size: cover;
   width: 100%; }
 
-/* line 59, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/homepage */
+/* line 59, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/homepage */
 .block-3 {
   background: url("/img/homepage/3.jpg") no-repeat center center fixed;
   background-size: cover;
   width: 100%; }
 
-/* line 65, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/homepage */
+/* line 65, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/homepage */
 .block-4 {
   background: url("/img/homepage/4.jpg") no-repeat center center fixed;
   background-size: cover;
   width: 100%; }
 
-/* line 70, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/homepage */
+/* line 70, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/homepage */
 .block-5 {
   background: url("/img/homepage/5.jpg") no-repeat center center fixed;
   background-size: cover;
   width: 100%; }
 
 @media only screen and (min-width: 46em) {
-  /* line 77, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/homepage */
+  /* line 77, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/homepage */
   .section-main p {
     max-width: 80%;
     text-align: center;
     margin: 0 auto; }
 
-  /* line 83, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/homepage */
+  /* line 83, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/homepage */
   .section-main h2 {
     padding-top: 4rem; }
 
-  /* line 87, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/homepage */
+  /* line 87, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/homepage */
   .section-main p {
     padding-bottom: 6rem; }
 
-  /* line 91, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/homepage */
+  /* line 91, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/homepage */
   .banner p {
     max-width: 80%;
     text-align: center;
@@ -1190,21 +1190,21 @@ footer li a {
  }
 
 @media only screen and (min-width: 60em) {
-  /* line 102, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/homepage */
+  /* line 102, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/homepage */
   .section-main p {
     max-width: 70%;
     text-align: center;
     margin: 0 auto; }
 
-  /* line 108, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/homepage */
+  /* line 108, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/homepage */
   .section-main h2 {
     padding-top: 6rem; }
 
-  /* line 112, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/homepage */
+  /* line 112, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/homepage */
   .section-main p {
     padding-bottom: 8rem; }
 
-  /* line 116, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/homepage */
+  /* line 116, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/homepage */
   .banner p {
     max-width: 70%;
     text-align: center;
@@ -1213,13 +1213,13 @@ footer li a {
  }
 
 @media only screen and (min-width: 70em) {
-  /* line 129, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/homepage */
+  /* line 129, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/homepage */
   .section-main p {
     max-width: 50%;
     text-align: center;
     margin: 0 auto; }
 
-  /* line 135, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/homepage */
+  /* line 135, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/homepage */
   .banner p {
     max-width: 60%;
     text-align: center;
@@ -1227,21 +1227,21 @@ footer li a {
     padding-bottom: 2rem; }
  }
 
-/* line 1, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+/* line 1, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
 img {
   width: 100%;
   height: 100%; }
 
-/* line 5, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+/* line 5, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
 .intro {
   text-align: center; }
 
-/* line 9, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+/* line 9, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
 .ac-container {
   width: 100%;
   text-align: left; }
 
-/* line 14, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+/* line 14, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
 .text-content h2 {
   background-color: rgba(26, 139, 113, 0.9);
   padding: 0.5rem;
@@ -1251,7 +1251,7 @@ img {
   font-size: 1.2rem;
   text-align: center; }
 
-/* line 24, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+/* line 24, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
 .ac-container .team {
   font-family: 'quicksand', 'Arial Narrow', Arial, sans-serif;
   padding-top: 6rem;
@@ -1266,7 +1266,7 @@ img {
   text-align: center;
   padding-right: 45%; }
 
-/* line 29, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+/* line 29, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
 .ac-container .board {
   font-family: 'quicksand', 'Arial Narrow', Arial, sans-serif;
   padding-top: 6rem;
@@ -1281,7 +1281,7 @@ img {
   text-align: center;
   padding-right: 70%; }
 
-/* line 35, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+/* line 35, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
 .ac-container .partners {
   font-family: 'quicksand', 'Arial Narrow', Arial, sans-serif;
   padding-top: 6rem;
@@ -1297,70 +1297,70 @@ img {
   padding-right: 80%; }
 
 @media only screen and (min-width: 28em) {
-  /* line 42, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+  /* line 42, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
   .ac-container .partners {
     padding-right: 45%; }
 
-  /* line 46, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+  /* line 46, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
   .ac-container .board {
     padding-right: 37%; }
 
-  /* line 50, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+  /* line 50, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
   .ac-container .team {
     padding-right: 25%; }
  }
 
 @media only screen and (min-width: 50em) {
-  /* line 58, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+  /* line 58, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
   .ac-container .partners {
     padding-right: 25%; }
 
-  /* line 62, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+  /* line 62, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
   .ac-container .board {
     padding-right: 20%; }
 
-  /* line 66, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+  /* line 66, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
   .ac-container .team {
     padding-left: 15%; }
  }
 
 @media only screen and (min-width: 81em) {
-  /* line 74, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+  /* line 74, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
   .ac-container .partners {
     padding-right: 24%;
     padding-top: 5rem; }
 
-  /* line 79, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+  /* line 79, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
   .ac-container .board {
     padding-right: 20%;
     padding-top: 5rem; }
 
-  /* line 84, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+  /* line 84, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
   .ac-container .team {
     padding-left: 12%;
     padding-top: 5rem; }
  }
 
-/* line 92, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+/* line 92, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
 .overlay {
   position: relative; }
 
-/* line 96, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+/* line 96, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
 span.text-content span {
   display: table-cell;
   text-align: center;
   vertical-align: middle; }
 
-/* line 102, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+/* line 102, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
 span.text-content {
   position: absolute;
   transition: opacity 500ms; }
 
-/* line 110, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+/* line 110, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
 .teal:before {
   background-color: rgba(71, 71, 71, 0.78); }
 
-/* line 114, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+/* line 114, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
 .overlay:before {
   position: absolute;
   content: " ";
@@ -1371,20 +1371,20 @@ span.text-content {
   opacity: 0;
   z-index: 0; }
 
-/* line 125, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+/* line 125, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
 .overlay:hover:before {
   opacity: 100;
   transition: 0.2s ease-in-out; }
 
-/* line 136, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+/* line 136, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
 .ac-container input:checked + label, .ac-container input:checked + label:hover {
   color: white; }
 
-/* line 140, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+/* line 140, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
 .ac-container input {
   display: none; }
 
-/* line 144, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+/* line 144, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
 .ac-container article {
   background: rgba(255, 255, 255, 0.5);
   margin-top: -1px;
@@ -1394,28 +1394,28 @@ span.text-content {
   z-index: 10;
   transition: height 0.3s ease-in-out, box-shadow 0.6s linear; }
 
-/* line 157, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+/* line 157, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
 .ac-container article p {
   font-weight: 500; }
 
-/* line 160, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+/* line 160, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
 .ac-container input:checked ~ article {
   transition: height 0.5s ease-in-out, box-shadow 0.1s linear;
   box-shadow: 0px 0px 0px 1px rgba(155, 155, 155, 0.3); }
 
-/* line 168, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+/* line 168, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
 .ac-container input:checked ~ article.ac-small {
   height: 100%; }
 
-/* line 171, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+/* line 171, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
 .ac-container input:checked ~ article.ac-medium {
   height: 180px; }
 
-/* line 174, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+/* line 174, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
 .ac-container input:checked ~ article.ac-large {
   height: 230px; }
 
-/* line 178, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+/* line 178, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
 .name {
   margin-top: 3rem;
   border: #474747 3.5px solid;
@@ -1425,35 +1425,35 @@ span.text-content {
   text-align: center;
   margin-left: 0%; }
 
-/* line 188, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+/* line 188, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
 .team-member {
   text-align: center; }
 
-/* line 192, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+/* line 192, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
 .team-member h4 {
   margin-bottom: 0; }
 
-/* line 196, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+/* line 196, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
 .team-member p {
   margin-top: -0.6rem;
   line-height: 1.3rem; }
 
-/* line 201, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+/* line 201, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
 .center {
   text-align: center; }
 
-/* line 205, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+/* line 205, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
 ul.img-list {
   list-style-type: none;
   text-align: center;
   padding: 2%; }
 
-/* line 211, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+/* line 211, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
 ul.img-list li {
   display: inline-block;
   position: relative; }
 
-/* line 216, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+/* line 216, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
 span.text-content-img {
   background: rgba(0, 0, 0, 0.74);
   color: white;
@@ -1465,14 +1465,14 @@ span.text-content-img {
   left: 1%;
   height: 238px; }
 
-/* line 228, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+/* line 228, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
 span.text-content-img span {
   display: table-cell;
   text-align: center;
   vertical-align: middle;
   padding: 0.5rem; }
 
-/* line 235, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+/* line 235, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
 span.text-content-img {
   background: rgba(0, 0, 0, 0.74);
   color: white;
@@ -1481,11 +1481,11 @@ span.text-content-img {
   position: absolute;
   opacity: 0; }
 
-/* line 244, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+/* line 244, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
 ul.img-list li:hover span.text-content-img {
   opacity: 1; }
 
-/* line 248, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+/* line 248, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
 span.text-content-img {
   background: #fdb514;
   color: white;
@@ -1495,16 +1495,16 @@ span.text-content-img {
   opacity: 0;
   transition: opacity 500ms; }
 
-/* line 261, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+/* line 261, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
 .directors {
   padding: 1rem;
   padding-top: 4rem;
   text-align: center; }
 
-/* line 267, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+/* line 267, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
 .partners-text {
   padding: 3rem 0 3rem 12%; }
 
-/* line 271, /Users/Pils/Documents/1 Graphic Design/3rd year GD/2nd Semester/Web Dev/architecture-for-humanity/scss/components/aboutus */
+/* line 271, /Users/EmilyProchnau/Desktop/Graphic Design/Interaction for Design/Architecture for Humanity/architecture-for-humanity/scss/components/aboutus */
 .partners-text ul {
   line-height: 3rem; }
