@@ -6,12 +6,29 @@ p{
  text-align: center;   
 }
 
-.section {
- background-color: #ccc;
+.section p {
+
+     max-width: 90%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.banner p{
+max-width: 90%;
+    text-align: center;
+    margin: 0 auto; 
+padding-bottom: 2rem;
+}
+
+.banner h1 {
+   padding-top: 2rem; 
+    text-align: center;
+    margin: 0 auto;
+    padding-bottom: 2rem;
 }
 
 .section h2{
-padding-top: 4rem; 
+padding-top: 2rem; 
 }
 
 .section p {
@@ -67,9 +84,75 @@ background-size: cover;
 width: 100%;
 }
     
- 
+@media only screen and (min-width: 46em) {
+
+.section p{
+ max-width: 80%;
+ text-align: center;
+ margin: 0 auto;
+}
+    
+.section h2{
+padding-top: 4rem; 
 }
 
+.section p {
+ padding-bottom: 6rem;   
+}
+
+.banner p{
+max-width: 80%;
+text-align: center;
+margin: 0 auto; 
+padding-bottom: 2rem;
+}
+
+}
+
+@media only screen and (min-width: 60em) {
+
+.section p{
+ max-width: 70%;
+text-align: center;
+margin: 0 auto;
+}
+    
+.section h2{
+padding-top: 6rem; 
+}
+
+.section p {
+ padding-bottom: 8rem;   
+}
+    
+.banner p{
+max-width: 70%;
+text-align: center;
+margin: 0 auto; 
+padding-bottom: 2rem;
+}
+
+    
+
+}
+
+@media only screen and (min-width: 70em) {
+
+.section p{
+     max-width: 50%;
+    text-align: center;
+    margin: 0 auto;
+    }
+    
+.banner p{
+max-width: 60%;
+text-align: center;
+margin: 0 auto; 
+padding-bottom: 2rem;
+}
+
+
+}
 
 
 
