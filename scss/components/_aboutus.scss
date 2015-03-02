@@ -4,7 +4,6 @@ img{
 }
 .intro{
  text-align: center;
- padding: 2rem;
 }
 
 .ac-container{
@@ -13,7 +12,6 @@ img{
 }
 
 .text-content h2{
-    
 	background-color: rgba(26, 139, 113, 0.90);
     padding: 0.5rem;
     border: $grey 3px solid;
@@ -266,3 +264,10 @@ span.text-content-img {
  text-align: center;    
 }
 
+.partners-text{
+ padding: 3rem 0 3rem 12%;    
+}
+
+.partners-text ul{
+ line-height: 3rem;   
+}
