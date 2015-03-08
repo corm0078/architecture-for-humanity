@@ -7,35 +7,30 @@
  padding: 0;        
 }
 
-.container-project i{
- @include icons($yellow); 
-}
-
 .sectors{
  padding: 0;
  margin: 0;
  width: 100%;    
 }
-.sectors:first-child{
- background-color: $yellow;
- color: $white;    
+
+.icon-reconstruction{
+ @include icons($teal);
+ color: $white; 
 }
 
-.sectors li:nth-child(2){
- background-color:$bleu;
+.icon-spaces{
+ @include icons($yellow);
+ color: $grey; 
 }
 
-.sectors li:nth-child(3){
- background-color: $yellow;    
+.icon-community{
+ @include icons($bleu);
+ color: $white; 
 }
 
-.sectors li:nth-child(4){
- background-color: $bleu;
-}
-
-.sectors i{
+.icon-education{
  @include icons($white);
- color: $grey;    
+ color: $grey; 
 }
 
 .sectors li{
@@ -48,7 +43,10 @@
 
 .place{
  padding-top: 3rem;    
- text-align: center;    
+ text-align: center; 
+    h4{
+     padding-top: 2rem;   
+    }
 }
 
 .sectors p{
@@ -58,6 +56,10 @@
 
 .container-project h5{
  padding-top: 1.5rem;   
+}
+
+.grid ul{
+ padding-left: 1.5rem;   
 }
 
 @media only screen and (min-width: 60em){
