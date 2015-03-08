@@ -1,3 +1,27 @@
 .container-project{
  padding: 0 2rem 2rem;  
 }
+
+.icon-community{
+ margin:0;
+ padding: 0;        
+}
+
+.container-project i{
+ font-size: 2rem;   
+ background-color: $yellow; 
+ border-radius: 20rem; 
+ padding: 0.8rem; 
+ border: $grey 3px solid;   
+}
+
+.container-project h5{
+ padding-top: 1.5rem;   
+}
+
+@media only screen and (min-width: 60em){
+ .container-project{
+  padding-top: 1.5rem;   
+ }
+    
+}
