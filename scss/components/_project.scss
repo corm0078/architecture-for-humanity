@@ -8,11 +8,52 @@
 }
 
 .container-project i{
- font-size: 2rem;   
- background-color: $yellow; 
- border-radius: 20rem; 
- padding: 0.8rem; 
- border: $grey 3px solid;   
+ @include icons($yellow); 
+}
+
+.sectors{
+ padding: 0;
+ margin: 0;
+ width: 100%;    
+}
+.sectors:first-child{
+ background-color: $yellow;
+ color: $white;    
+}
+
+.sectors li:nth-child(2){
+ background-color:$bleu;
+}
+
+.sectors li:nth-child(3){
+ background-color: $yellow;    
+}
+
+.sectors li:nth-child(4){
+ background-color: $bleu;
+}
+
+.sectors i{
+ @include icons($white);
+ color: $grey;    
+}
+
+.sectors li{
+ list-style-type: none;   
+}
+
+.sectors h4 { 
+ padding-top: 1.5rem;    
+}
+
+.place{
+ padding-top: 3rem;    
+ text-align: center;    
+}
+
+.sectors p{
+ padding-left: 2rem;
+ padding-bottom: 1.5rem;    
 }
 
 .container-project h5{
