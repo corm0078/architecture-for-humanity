@@ -25,20 +25,20 @@
 /* Font-face Icons */
 @font-face {
 	font-family: 'flexslider-icon';
-	src:url('font/flexslider-icon.eot');
-	src:url('font/flexslider-icon.eot?#iefix') format('embedded-opentype'),
-		url('font/flexslider-icon.woff') format('woff'),
-		url('font/flexslider-icon.ttf') format('truetype'),
-		url('font/flexslider-icon.svg#flexslider-icon') format('svg');
+	src:url('{{site.baseurl}}/font/flexslider-icon.eot');
+	src:url('{{site.baseurl}}/font/flexslider-icon.eot?#iefix') format('embedded-opentype'),
+		url('{{site.baseurl}}/font/flexslider-icon.woff') format('woff'),
+		url('{{site.baseurl}}/font/flexslider-icon.ttf') format('truetype'),
+		url('{{site.baseurl}}/font/flexslider-icon.svg#flexslider-icon') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
 /* FlexSlider Necessary Styles
 *********************************/
-.flexslider {margin: 0; padding: 0;}
+.flexslider {margin: 0; padding: 0; padding-top: 2rem;}
 .flexslider .slides > li {display: none; -webkit-backface-visibility: hidden;} /* Hide the slides before the JS is loaded. Avoids image jumping */
-.flexslider .slides img {width: 100%; display: block;}
+.flexslider .slides img {width: 90%; display: block; margin-left: 5%;}
 .flex-pauseplay span {text-transform: capitalize;}
 
 /* Clearfix for the .slides element */
@@ -53,7 +53,7 @@ html[xmlns] .slides {display: block;}
 
 /* FlexSlider Default Theme
 *********************************/
-.flexslider { margin: 0 0 60px; background: #fff; border: 4px solid #fff; position: relative; -webkit-border-radius: 4px; -moz-border-radius: 4px; -o-border-radius: 4px; border-radius: 4px; -webkit-box-shadow: 0 1px 4px rgba(0,0,0,.2); -moz-box-shadow: 0 1px 4px rgba(0,0,0,.2); -o-box-shadow: 0 1px 4px rgba(0,0,0,.2); box-shadow: 0 1px 4px rgba(0,0,0,.2); zoom: 1; }
+.flexslider { margin: 0 0 70px; background: #fff;  position: relative; }
 .flex-viewport { max-height: 2000px; -webkit-transition: all 1s ease; -moz-transition: all 1s ease; -o-transition: all 1s ease; transition: all 1s ease; }
 .loading .flex-viewport { max-height: 300px; }
 .flexslider .slides { zoom: 1; }
@@ -61,15 +61,15 @@ html[xmlns] .slides {display: block;}
 
 /* Direction Nav */
 .flex-direction-nav {*height: 0;}
-.flex-direction-nav a  { display: block; width: 40px; height: 40px; margin: -20px 0 0; position: absolute; top: 50%; z-index: 10; overflow: hidden; opacity: 0; cursor: pointer; color: rgba(0,0,0,0.8); text-shadow: 1px 1px 0 rgba(255,255,255,0.3); -webkit-transition: all .3s ease; -moz-transition: all .3s ease; transition: all .3s ease; }
+.flex-direction-nav a  { display: block; width: 30px; height: 30px;  margin: 0px 0 0; position: absolute; top: 50%; z-index: 10; overflow: hidden; opacity: 0; cursor: pointer; color: rgba(0,0,0,0.8); text-shadow: 1px 1px 0 rgba(255,255,255,0.3); -webkit-transition: all .3s ease; -moz-transition: all .3s ease; transition: all .3s ease; background-color: $white; border-radius: 20rem; padding: auto; border: $grey 3px solid;}
 .flex-direction-nav .flex-prev { left: -50px; }
 .flex-direction-nav .flex-next { right: -50px; text-align: right; }
-.flexslider:hover .flex-prev { opacity: 0.7; left: 10px; }
-.flexslider:hover .flex-next { opacity: 0.7; right: 10px; }
-.flexslider:hover .flex-next:hover, .flexslider:hover .flex-prev:hover { opacity: 1; }
+.flexslider:hover .flex-prev { opacity: 1; left: 10px; color: $grey; }
+.flexslider:hover .flex-next { opacity: 1; right: 10px; color: $grey;  }
+.flexslider:hover .flex-next:hover, .flexslider:hover .flex-prev:hover { background-color: $yellow }
 .flex-direction-nav .flex-disabled { opacity: 0!important; filter:alpha(opacity=0); cursor: default; }
-.flex-direction-nav a:before  { font-family: "flexslider-icon"; font-size: 40px; display: inline-block; content: '\f001'; }
-.flex-direction-nav a.flex-next:before  { content: '\f002'; }
+.flex-direction-nav a:before  { padding-left: 0.3rem; ; font-size: 1rem; font-weight: 500px;  display: inline-block; content: '<';  }
+.flex-direction-nav a.flex-next:before  { padding-right: 0.3rem; content: '>';}
 
 /* Control Nav */
 .flex-control-nav {width: 100%; position: absolute; bottom: -40px; text-align: center;}

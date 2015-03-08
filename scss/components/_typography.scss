@@ -1,3 +1,4 @@
+
 html {
   font: normal 100%/1.5 quicksand,sans-serif;
   color: $grey;    
@@ -210,4 +211,8 @@ sub {
 .gutter-quarter, .gutter-1-4 {
   padding-left: 0.3750rem;
   padding-right: 0.3750rem;
+}
+
+.hide-text{
+ display: none;
 }
