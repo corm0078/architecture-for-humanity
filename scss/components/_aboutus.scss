@@ -13,8 +13,7 @@ img{
 
 .text-content{
   position: absolute;
-  width: 100%;    
-    
+  width: 100%; 
 }
 
 .h2-center{
@@ -124,6 +123,7 @@ span.text-content {
 }
 .ac-container input:checked ~ article.ac-small{
 	height: 100%;
+    text-align: center;
 }
 .ac-container input:checked ~ article.ac-medium{
 	height: 180px;
@@ -133,7 +133,7 @@ span.text-content {
 }
 
 .ac-small{
-  text-align: center;  
+  text-align: center; 
 }
 
 .name{
