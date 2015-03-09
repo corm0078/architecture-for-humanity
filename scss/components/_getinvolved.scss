@@ -5,7 +5,7 @@
         color: $teal;
       }
       .theme-green {
-       color: $bleu;
+       color: $teal;
       }
       .theme-grey {
         color: $grey;
@@ -14,7 +14,7 @@
         color: #fff;
       }
       .theme-background-blue {
-        background-color: $bleu;
+        background-color: $teal;
         color: #fff;
       }
       .theme-background-orange {
@@ -22,7 +22,7 @@
         color: #fff;
       }
       .theme-background-green {
-        background-color: $bleu;
+        background-color: $teal;
         color: #fff;
       }
       .theme-background-grey {
@@ -37,7 +37,6 @@
         padding: 32px 23px 28px;
       }
       .donate-bar > div:first-child {
-        border-right: 1px solid $bleu;
         margin-top: 15px;
         font-size: 28px;
         padding: 0;
@@ -51,7 +50,7 @@
 
       .btn-blue-other,
       .btn-blue {
-        background-color: $bleu;
+        background-color: $teal;
         color: #fff;
         border-radius: 5px;
         border: 0;
@@ -76,7 +75,7 @@
       #other-input input {
         position: relative;
         background-color: #fff;
-        color: $bleu;
+        color: $teal;
         border-radius: 5px;
         border: 0;
         border: 5px solid #427bb8;
@@ -91,7 +90,7 @@
        margin: 0; 
       }
       #other-input span {
-        color: $bleu;
+        color: $teal;
         position: absolute;
         padding: 23px 12px;
         z-index: 10;
@@ -103,8 +102,8 @@
       }
       .donate-buttons .active {
         background-color: #fff;
-        border: 5px solid $bleu;
-        color: $bleu;
+        border: 5px solid $teal;
+        color: $teal;
       }
       .donate-buttons:focus {
       outline: -webkit-focus-ring-color auto 0px;
@@ -122,24 +121,28 @@
        display: inline-block;   
       }
 
-.form-control{
-  display: block;
-  width: 100%;
-  height: 34px;
-  padding: 6px 12px;
-  font-size: 14px;
-  line-height: 1.42857143;
-  color: #555;
-  background-color: #fff;
-  background-image: none;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-}
+    .form-control{
+      display: block;
+      width: 100%;
+      height: 34px;
+      padding: 6px 12px;
+      font-size: 14px;
+      line-height: 1.42857143;
+      color: #555;
+      background-color: #fff;
+      background-image: none;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
 
-.modal-footer{
- margin-bottom: 3rem; 
- margin-top: 3rem;    
-}
-.section-donate{ 
- padding-top: 3rem; 
-}
+    .modal-footer{
+     margin-bottom: 3rem; 
+     margin-top: 3rem;    
+    }
+    .section-donate{ 
+     padding-top: 3rem; 
+    }
+
+    .thankyou{
+     color: $teal;   
+    }
