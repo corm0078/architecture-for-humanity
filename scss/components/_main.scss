@@ -63,7 +63,7 @@ i-menu{
 
 header{
  position: fixed;
- z-index: 1000;   
+ z-index: 2000;   
 }
 
 .header {
@@ -133,7 +133,8 @@ header{
 
   &[data-state="slide-open"] .sliding-canvas{
          transform: translateX(100%);
-         overflow: visible;    
+         overflow: visible;
+         position: fixed;
         }
 
     &[data-state="slide-open"]{
@@ -157,7 +158,7 @@ header{
      display: none;
  }
  .slide-menu{
-  position: static;
+  position:absolute;
   right: auto;     
  }
 }
