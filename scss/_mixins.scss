@@ -46,3 +46,9 @@
  padding: 0.8rem; 
  border: $grey 3px solid;
 }
+
+@mixin main{
+    max-width: 90%;
+    text-align: center;
+    margin: 0 auto;   
+}

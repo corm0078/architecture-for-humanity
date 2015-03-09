@@ -60,6 +60,38 @@
  padding-top: 1.5rem;   
 }
 
+.ac-container .biloxi{
+ @include about-us(url(../img/biloxi-model-homes/biloxi-model-banner.jpg));    
+}
+
+.ac-container .enel{
+ @include about-us(url(../img/enel-cuore/enel-cuore-banner.jpg));    
+}
+
+.ac-container .football{
+ @include about-us(url(../img/football-for-hope/football-for-hope-banner.jpg));    
+}
+
+.ac-container .haiti{
+ @include about-us(url(../img/haiti-rebuilding/haiti-rebuild-banner.jpg));    
+}
+
+.ac-container .hearts{
+ @include about-us(url(../img/happy-hearts/happy-hearts-banner.jpg));    
+}
+
+.ac-container .sandy{
+ @include about-us(url(../img/hurricane-sandy/hurricane-sandy-banner.jpg));    
+}
+
+.ac-container .resilience{
+ @include about-us(url(../img/national-resilience/national-resilience-banner.jpg));    
+}
+
+.ac-container .nike{
+ @include about-us(url(../img/nike-gamechangers/national-resilience-banner.jpg));    
+}
+
 @media only screen and (min-width: 60em){
  .container-project{
   padding-top: 1.5rem;   

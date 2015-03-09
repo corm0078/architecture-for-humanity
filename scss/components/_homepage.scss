@@ -1,31 +1,24 @@
 .homepage h2 {
- text-align: center;   
+ text-align: center;
+    p{
+     text-align: center; 
+    }
 }
-
-.homepage p{
- text-align: center;   
-}
-
 
 .section-main p {
-
-     max-width: 90%;
-    text-align: center;
-    margin: 0 auto;
+    @include main;
 }
 
 .banner p{
-max-width: 90%;
-    text-align: center;
-    margin: 0 auto; 
-padding-bottom: 2rem;
-}
-
-.banner h1 {
-   padding-top: 2rem; 
-    text-align: center;
-    margin: 0 auto;
+    @include main;
     padding-bottom: 2rem;
+    
+    h1{
+        padding-top: 2rem; 
+        text-align: center;
+        margin: 0 auto;
+        padding-bottom: 2rem;  
+    }
 }
 
 .section-main {
@@ -54,31 +47,31 @@ padding-bottom: 2rem;
 }
 
 .block-1 {
-background: url("../img/homepage/1.jpg")  no-repeat center center fixed;
+    background: url("../img/homepage/1.jpg")  no-repeat center center fixed;
     @include cover-width;
 }
 
 .block-2 {
-background: $teal no-repeat center center fixed;
+    background: $teal no-repeat center center fixed;
     color: $white;
     @include cover-width;
 
 }
 
 .block-3 {
-background: url("../img/homepage/3.jpg")  no-repeat center center fixed;
+    background: url("../img/homepage/3.jpg")  no-repeat center center fixed;
     @include cover-width;
 
 }
 
 .block-4 {
-background: $bleu no-repeat center center fixed;
+    background: $bleu no-repeat center center fixed;
     color: $white;
-     @include cover-width;
+    @include cover-width;
 }
 
 .block-5 {
-background: url("../img/homepage/5.jpg")  no-repeat center center fixed;
+  background: url("../img/homepage/5.jpg")  no-repeat center center fixed;
   @include cover-width;
 }
     
@@ -87,15 +80,15 @@ background: url("../img/homepage/5.jpg")  no-repeat center center fixed;
     .section-main{
         padding-top: 20%;
         p{
-         max-width: 80%;
-         text-align: center;
-         margin: 0 auto;
+        max-width: 80%;
+        text-align: center;
+        margin: 0 auto;
         }
     }
 
 
     .section-main p {
-     padding-bottom: 6rem;   
+        padding-bottom: 6rem;   
     }
 
     .banner p{
