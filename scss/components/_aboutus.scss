@@ -147,33 +147,35 @@ span.text-content {
 }
 
 .team-member{
- text-align: center;   
-}
-
-.team-member h4{
+ text-align: center;
+    
+    h4{
     margin-bottom: 0;
-}
-
-.team-member p{
+    }
+    
+    p{
     margin-top: -0.6rem;
     line-height: 1.3rem;
+    }
 }
+
 
 .center{
  text-align: center;   
 }
 
 ul.img-list {
-  list-style-type: none;   
-}
- 
-ul.img-list li {
+  list-style-type: none; 
+    
+    li {
   display: inline-block;
   position: relative;
-}
+  }
 
+}
+ 
 span.text-content-img {
-  background: rgba(0, 0, 0, 0.74);
+ background: #fdb514;
   color: white;
   top: 3.2rem;   
   cursor: pointer;
@@ -183,34 +185,20 @@ span.text-content-img {
   left: 1%;    
   height: 238px;
   text-align: center;
-  padding: 1rem;    
+  padding: 1rem;
+ opacity: 0;
+     -webkit-transition: opacity 500ms;
+  -moz-transition: opacity 500ms;
+  -o-transition: opacity 500ms;
+  transition: opacity 500ms;
 }
 
-span.text-content-img {
-  background: rgba(0, 0, 0, 0.74);
-  color: white;
-  cursor: pointer;
-  display: table;
-  position: absolute;
-  opacity: 0;
-}
  
 ul.img-list li:hover span.text-content-img {
   opacity: 1;
 }
 
-span.text-content-img {
-  background: #fdb514;
-  color: white;
-  cursor: pointer;
-  display: table;
-  position: absolute;
-  opacity: 0;
-  -webkit-transition: opacity 500ms;
-  -moz-transition: opacity 500ms;
-  -o-transition: opacity 500ms;
-  transition: opacity 500ms;
-}
+
 
 .directors{
  padding: 1rem;
@@ -219,10 +207,10 @@ span.text-content-img {
 }
 
 .partners-text{
- padding: 3rem 0 3rem 0;    
-}
-
-.partners-text ul{
- line-height: 3rem;
- list-style-type: none;
+ padding: 3rem 0 3rem 0;
+    
+    ul{
+        line-height: 3rem;
+        list-style-type: none;
+        }
 }
