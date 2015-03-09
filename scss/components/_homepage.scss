@@ -6,6 +6,7 @@
  text-align: center;   
 }
 
+
 .section-main p {
 
      max-width: 90%;
@@ -28,12 +29,14 @@ padding-bottom: 2rem;
 }
 
 .section-main {
-    margin-bottom: -2rem; 
-    h2{
-        padding-top: 2rem; 
-    }
+    height: 500px;
+    padding-top: 5rem;
     p{
         padding-bottom: 4rem; 
+    }
+    
+    i{
+     font-size: 4rem;    
     }
 }
 
@@ -80,9 +83,6 @@ background: url("../img/homepage/5.jpg")  no-repeat center center fixed;
  margin: 0 auto;
 }
     
-.section-main h2{
-padding-top: 4rem; 
-}
 
 .section-main p {
  padding-bottom: 6rem;   
@@ -105,9 +105,6 @@ text-align: center;
 margin: 0 auto;
 }
     
-.section-main h2{
-padding-top: 6rem; 
-}
 
 .section-main p {
  padding-bottom: 8rem;   
