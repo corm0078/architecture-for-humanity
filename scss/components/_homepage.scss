@@ -46,29 +46,29 @@ padding-bottom: 2rem;
 }
 
 .block-1 {
-background: url("/img/homepage/1.jpg")  no-repeat center center fixed;
+background: url("../img/homepage/1.jpg")  no-repeat center center fixed;
     @include cover-width;
 }
 
 .block-2 {
-background: url("/img/homepage/2.jpg")  no-repeat center center fixed;
+background: url("../img/homepage/2.jpg")  no-repeat center center fixed;
     @include cover-width;
 
 }
 
 .block-3 {
-background: url("/img/homepage/3.jpg")  no-repeat center center fixed;
+background: url("../img/homepage/3.jpg")  no-repeat center center fixed;
     @include cover-width;
 
 }
 
 .block-4 {
-background: url("/img/homepage/4.jpg")  no-repeat center center fixed;
+background: url("../img/homepage/4.jpg")  no-repeat center center fixed;
      @include cover-width;
 }
 
 .block-5 {
-background: url("/img/homepage/5.jpg")  no-repeat center center fixed;
+background: url("../img/homepage/5.jpg")  no-repeat center center fixed;
   @include cover-width;
 }
     
