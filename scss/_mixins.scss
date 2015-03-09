@@ -28,7 +28,6 @@
 }
 
 @mixin about-us($url){
- 	font-family: 'quicksand', 'Arial Narrow', Arial, sans-serif;
 	padding-top: 6rem;
 	display: block;
 	height: 250px;
@@ -38,7 +37,6 @@
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
-    text-align: center;
 }
 
 @mixin icons($colour){

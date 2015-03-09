@@ -2,103 +2,60 @@ img{
  width: 100%;
  height: 100%;    
 }
+
 .intro{
  text-align: center;
 }
 
 .ac-container{
 	width: 100%;
-	text-align: left;
 }
 
-.text-content h2{
+.text-content{
+  position: absolute;
+  width: 100%;    
+    
+}
+
+.h2-center{
 	background-color: rgba(26, 139, 113, 0.90);
-    padding: 0.5rem;
     border: $grey 3px solid;
     border-radius: 0.3rem;
-    font-weight: 700;
-    font-size: 1.2rem;
-    text-align: center;
+    width: 50%;
+    float: right;
+    padding: 1rem;
+    margin-right: 25%;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+@media only screen and (min-width: 60em){
+ .h2-center{
+     width: 30%;
+     margin-right: 35%;
+     left:35%;
+     font-size: 1.5rem;
+     font-weight: 800;
+ }
+    
 }
 
 .ac-container .team{
- @include about-us(url(../img/ourteam.jpg));
- padding-right: 45%;    
+ @include about-us(url(../img/ourteam.jpg));    
 }
 
 .ac-container .board{
- @include about-us(url(../img/boardofdirectors.jpg)); 
- padding-right: 70%;    
-   
+ @include about-us(url(../img/boardofdirectors.jpg));       
 }
 
 .ac-container .partners{
- @include about-us(url(../img/partners.jpg));
- padding-right: 80%;    
+ @include about-us(url(../img/partners.jpg));   
 }
-
-@media only screen and (min-width:28em){
-  
-    .ac-container .partners{
-     padding-right: 45%;   
-    }
-    
-    .ac-container .board{
-     padding-right: 37%;   
-    }
-    
-    .ac-container .team{
-     padding-right: 25%;   
-    }
-    
-}
-
-@media only screen and (min-width:50em){
-  
-    .ac-container .partners{
-     padding-right: 25%;   
-    }
-    
-    .ac-container .board{
-     padding-right: 20%;   
-    }
-    
-    .ac-container .team{
-     padding-left: 15%;   
-    }
-    
-}
-
-@media only screen and (min-width:81em){
-  
-    .ac-container .partners{
-     padding-right: 24%;
-     padding-top: 5rem;    
-    }
-    
-    .ac-container .board{
-     padding-right: 20%;
-     padding-top: 5rem;
-    }
-    
-    .ac-container .team{
-     padding-left: 12%;
-     padding-top: 5rem;    
-    }
-    
-}
-
 
 .overlay {
   position: relative;
 }
  
-span.text-content span {
-  display: table-cell;
-  text-align: center;
-  vertical-align: middle;
-}
-
 span.text-content {
   position: absolute;
   -webkit-transition: opacity 500ms;
@@ -119,7 +76,7 @@ span.text-content {
   width:100%;
   height:100%;
   opacity: 0;
-  z-index:0;
+  z-index:0;    
 }
 
 .overlay:hover:before{
@@ -175,6 +132,10 @@ span.text-content {
 	height: 230px;
 }
 
+.ac-small{
+  text-align: center;  
+}
+
 .name{
    margin-top: 3rem;    
    border: $grey 3.5px solid;
@@ -203,9 +164,7 @@ span.text-content {
 }
 
 ul.img-list {
-  list-style-type: none;
-  text-align: center;
-  padding: 2%;    
+  list-style-type: none;   
 }
  
 ul.img-list li {
@@ -222,14 +181,9 @@ span.text-content-img {
   position: absolute;
   width: 98%; 
   left: 1%;    
-  height: 238px    
-}
- 
-span.text-content-img span {
-  display: table-cell;
+  height: 238px;
   text-align: center;
-  vertical-align: middle;
-  padding: 0.5rem;    
+  padding: 1rem;    
 }
 
 span.text-content-img {
@@ -269,5 +223,5 @@ span.text-content-img {
 }
 
 .partners-text ul{
- line-height: 3rem;   
+ line-height: 3rem;
 }
