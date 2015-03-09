@@ -133,8 +133,8 @@ header{
 
   &[data-state="slide-open"] .sliding-canvas{
          transform: translateX(100%);
-         overflow: visible;
-         position: fixed;
+         overflow: visible; 
+         position: fixed;    
         }
 
     &[data-state="slide-open"]{
@@ -158,7 +158,7 @@ header{
      display: none;
  }
  .slide-menu{
-  position:absolute;
+  position: static;
   right: auto;     
  }
 }
@@ -170,6 +170,7 @@ header{
  
     
 .h1-logo{
+ display: block;
  padding: 0;
   padding-left: 1rem;    
 }
