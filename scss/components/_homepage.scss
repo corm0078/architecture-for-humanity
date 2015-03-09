@@ -31,6 +31,11 @@ padding-bottom: 2rem;
 .section-main {
     height: 600px;
     padding-top: 25%;
+    
+    h2{
+     font-size: 1.5rem;   
+    }
+    
     p{
         padding-bottom: 4rem; 
     }
@@ -106,7 +111,10 @@ background: url("../img/homepage/5.jpg")  no-repeat center center fixed;
 
     .section-main{
         padding-top: 13%;
-            p{
+         h2{
+            font-size: 2rem;   
+            }
+         p{
              max-width: 70%;
              text-align: center;
              margin: 0 auto;
