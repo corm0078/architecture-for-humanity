@@ -245,6 +245,10 @@ footer{
   text-align: center; 
 }
 
+footer p{
+ font-size: 0.8rem;    
+}
+
 footer h2{
  padding-top: 3rem;   
 }
@@ -266,8 +270,7 @@ footer ul{
 }
 
 footer li a{
- color: $white;
- width: 0;    
+ color: $white;   
 }
 
 .copywrite{
@@ -281,4 +284,11 @@ footer li a{
 
 .gutter {
   padding: 0 2rem 0 2rem;
+}
+
+@media only screen and (min-width:31em){
+   
+    footer p{
+    font-size: 1.2rem;    
+    } 
 }
