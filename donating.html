@@ -1,0 +1,50 @@
+---
+layout: default
+---
+
+<!-- Modal -->
+<div class="title">
+            <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+              <div class="modal-dialog">
+                <div class="modal-content">
+                  <div class="modal-header well text-center theme-background-blue">
+                    <h2>You’re Donating:</h2>
+                    <h1 style="font-size: 5.5em; margin-top: 0;">$<span id="price"></span></h1>
+                    <em>Thank you!</em>
+                  </div>
+                  <div class="modal-body"> 
+                        <div class="grid">
+                          <div class="section-donate unit unit-s-1 unit-m-1 unit-l-1-2 gutter">
+                            <h4>Your personal info</h4>
+                            <label>Your Name</label>
+                            <input type="string" class="form-control">
+                            <label>Your email</label>
+                            <input type="email" class="form-control">
+                            <label>Address</label>
+                            <input type="email" class="form-control">
+                            <label>City, State, Zip Code</label>
+                            <input type="email" class="form-control">
+                          </div>
+                          <div class="section-donate unit unit-s-1 unit-m-1 unit-l-1-2 gutter">
+                            <h4>Credit Card Information</h4>
+                            <label for="card-number">Credit Card Number</label>
+                            <input placeholder="1234 5678 9012 3456" pattern="[0-9]*" type="text" class="form-control card-number" id="card-number">
+                            <label for="card-number">Expiration Date</label>
+                            <input placeholder="MM/YY" pattern="[0-9]*" type="text" class="form-control card-expiration" id="card-expiration">
+                            <label for="card-number">CVV Number</label>
+                            <input placeholder="CVV" pattern="[0-9]*" type="text" class="form-control card-cvv" id="card-cvv">
+                            <label for="card-number">Billing Zip Code</label>
+                            <input placeholder="ZIP" pattern="[0-9]*" type="text" class="form-control card-zip" id="card-zip">
+                          </div>
+                      </div>
+                  </div>
+                  <div class="modal-footer">
+                    <a href="{{site.baseurl}}/../thankyou">
+                        <button type="button" class="btn-green">CONTINUE</button>
+                    </a>    
+                  </div>
+                  </div>
+                </div>
+    </div>
+    
+</div>

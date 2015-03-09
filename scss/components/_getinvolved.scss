@@ -1,0 +1,145 @@
+      .theme-blue {
+        color: $grey;
+      }
+      .theme-orange {
+        color: $teal;
+      }
+      .theme-green {
+       color: $bleu;
+      }
+      .theme-grey {
+        color: $grey;
+      }
+      .theme-white {
+        color: #fff;
+      }
+      .theme-background-blue {
+        background-color: $bleu;
+        color: #fff;
+      }
+      .theme-background-orange {
+        background-color: $teal;
+        color: #fff;
+      }
+      .theme-background-green {
+        background-color: $bleu;
+        color: #fff;
+      }
+      .theme-background-grey {
+        background-color: $grey;
+        color: #fff;
+      }
+      .theme-background-white {
+        background-color: #fff;
+        color: $grey;
+      }
+      .donate-bar {
+        padding: 32px 23px 28px;
+      }
+      .donate-bar > div:first-child {
+        border-right: 1px solid $bleu;
+        margin-top: 15px;
+        font-size: 28px;
+        padding: 0;
+      }
+      .donate-buttons>li>a {
+        position: relative;
+        display: block;
+        padding: 10px 3px;
+        border-radius: 5px;
+      }
+
+      .btn-blue-other,
+      .btn-blue {
+        background-color: $bleu;
+        color: #fff;
+        border-radius: 5px;
+        border: 0;
+        padding: 0;
+        width: 75px;
+        height: 37px;
+        margin-top: 8px;
+      }
+      .btn-green {
+        background-color: $yellow;
+        color: #fff;
+        border-radius: 5px;
+        border: 0;
+        padding: 0;
+        width: 114px;
+        height: 37px;
+        margin-top: 8px;
+      }
+      #other-input {
+        display: none;
+      }
+      #other-input input {
+        position: relative;
+        background-color: #fff;
+        color: $bleu;
+        border-radius: 5px;
+        border: 0;
+        border: 5px solid #427bb8;
+        padding: 0 0 3px 15px;
+        width: 75px;
+        height: 37px;
+        margin: 18px 3px 0;
+      }
+      input[type=number]::-webkit-inner-spin-button, 
+      input[type=number]::-webkit-outer-spin-button { 
+      -webkit-appearance: none; 
+       margin: 0; 
+      }
+      #other-input span {
+        color: $bleu;
+        position: absolute;
+        padding: 23px 12px;
+        z-index: 10;
+        pointer-events: none;
+      }
+      .impact {
+        font-size: 1.1em;
+        clear: both;
+      }
+      .donate-buttons .active {
+        background-color: #fff;
+        border: 5px solid $bleu;
+        color: $bleu;
+      }
+      .donate-buttons:focus {
+      outline: -webkit-focus-ring-color auto 0px;
+      }
+      .donate-buttons li:last-child {
+        font-size: 17px;
+        line-height: 37px;
+        padding-left: 20px;
+        padding-top: 15px;
+      }
+      .click{
+       list-style-type: none;
+      }
+      .click li{
+       display: inline-block;   
+      }
+
+.form-control{
+  display: block;
+  width: 100%;
+  height: 34px;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #555;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.modal-footer{
+ margin-bottom: 3rem; 
+ margin-top: 3rem;    
+}
+.section-donate{ 
+ padding-top: 3rem; 
+}
