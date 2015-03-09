@@ -101,8 +101,9 @@ header {
     
     fieldset {
       &.sm {
-        float: left;
+        float: center;
         width: 49%;
+        text-align: center;
         
         &:nth-of-type(odd) { margin-right: 2%; }
       }
